@@ -1,45 +1,51 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "J. Zackary Wright",
+    "label": "Independent Contractor/Game Developer",
+    "picture": "https://github.com/HonouredOne.png",
+    "email": "jameswrightlpa@gmail.com",
+    "phone": "385-321-5778",
+    "website": "https://HonouredOne.github.io",
+    "summary": "I am working on my game development and programming skills by completing various small projects.",
+    "location": { "address": "20568 240th St.", "postalCode": "64647", "city": "Jameson", "countryCode": "USA", "region": "Missouri" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "HonouredOne", "url": "http://github.com/HonouredOne" },
+      { "network": "linkedin", "username": "jzackarywright", "url": "http://linkedin.com/in/j-zackary-wright-3a9806177" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Current Technology" },
+    { "name": "Retro Technology" },
+    { "name": "Computer and Console Architecture" },
+    { "name": "Video Game Engines" },
+    { "name": "2D/3D Graphics" }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "name": "Languages",
+      "keywords": [ "GDScript", "C#", "Rust", "C++", "Javascript", "Python", "HTML", "CSS" ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "name": "Frameworks",
+      "keywords": [ "Godot 4", ".NET", "MonoGame", "WebRTC", "pygame", "numpy", "pandas", "TensorFlow", "Keras", "CLAP", "Indicatif", "Actix", "Quill", "Godot 3" ]
+    },
+    {
+      "name": "Toolsets",
+      "keywords": [ "Godot Engine", "Visual Studio Code", "cargo", "Git/GitHub", "g++", "Visual Studio", "PowerShell" ]
+    },
+    {
+      "name": "OS",
+      "keywords": ["Windows", "WSL", "Ubuntu", "Debian", "Manjaro", "Arch" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "Zenva Academy",
+      "area": "Computer Science/Game Development",
+      "studyType": "Ongoing",
+      "startDate": "2021-03-18",
       "endDate": "Present",
-      "courses": [
+      "courses": [ "Rust Programming Academy", "C# Programming Academy", "C++ Programming Academy", "Godot 3 Game Development Mini-Degree"
       ]
     }
   ],
